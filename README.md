@@ -51,8 +51,11 @@ The analysis provided insights into sales performance variations across differen
 **Predictive Modeling:** Develop models to forecast future sales trends and identify potential areas for growth.
 **Benchmarking:** Compare store performance against industry standards to set performance goals and measure progress.
 
-## Tableau Dashboard
+**Tableau Dashboard**
 
 An interactive dashboard for the Local Store Performance Analysis project can be viewed 
+
+![Executive Overview](https://github.com/user-attachments/assets/df2693ca-302c-4054-8a5c-0b689e59957f)
+
 (https://public.tableau.com/views/LocalStoreAnalysis/ExecutiveOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 

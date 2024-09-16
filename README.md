@@ -1,6 +1,8 @@
 **Project Title:**
 **Local Store Performance Analysis**
 
+![Executive Overview](https://github.com/user-attachments/assets/df2693ca-302c-4054-8a5c-0b689e59957f)
+
 **Executive Summary**
 **Objective:**
 The goal of this project is to analyze and enhance the performance of local stores by examining sales data and key performance indicators (KPIs). The project aims to identify trends, inefficiencies, and opportunities for growth, offering actionable insights to optimize store operations and improve profitability.
@@ -53,9 +55,7 @@ The analysis provided insights into sales performance variations across differen
 
 **Tableau Dashboard**
 
-An interactive dashboard for the Local Store Performance Analysis project can be viewed 
-
-![Executive Overview](https://github.com/user-attachments/assets/df2693ca-302c-4054-8a5c-0b689e59957f)
+An interactive dashboard for the Local Store Performance Analysis project can be viewed :
 
 (https://public.tableau.com/views/LocalStoreAnalysis/ExecutiveOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
